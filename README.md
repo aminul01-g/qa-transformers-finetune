@@ -119,10 +119,7 @@ Through this project, I learned how QA differs from classification tasks. Fine-t
 bert-qa-squad/
 │
 ├─ README.md
-├─ requirements.txt
-├─ QA_FineTuning_SQuAD_YourName.ipynb
-├─ dataset/  (optional local dataset storage)
-└─ outputs/  (model checkpoints & evaluation results)
+└─ Fine_Tuning_Transformers_4_Q_A.ipynb
 ```
 
 ---
